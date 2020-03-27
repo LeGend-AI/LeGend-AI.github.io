@@ -11,6 +11,9 @@ favicon:
   apple_touch_icon:
   safari_pinned_tab:
 
+cache:
+  enable: false
+
 avatar:
   url: /images/avatar.jpeg
   rounded: true
