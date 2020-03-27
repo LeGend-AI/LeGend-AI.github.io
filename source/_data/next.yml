@@ -1,0 +1,49 @@
+language: zh-CN
+scheme: mist
+highlight_theme: night
+
+sidebar:
+  position: right
+
+site_state: true
+
+avatar:
+  url: /images/avatar.jpeg
+  rounded: true
+
+social:
+  GitHub: https://github.com/LeGend-AI || github
+  E-Mail: mailto:joseph04912654@gmail.com || envelope
+social_icons:
+  enable: true
+  icons_only: false
+  transition: false
+
+toc:
+  enable: true
+  number: true
+  wrap: false
+  expand_all: false
+  max_depth: 6
+
+excerpt_description: true
+read_more_btn: true
+
+post_meta:
+  item_text: true
+  created_at: true
+  updated_at:
+    enable: true
+    another_day: true
+  categories: true
+
+tag_icon: false
+
+math:
+  per_page: true
+  mathjax:
+    enable: true
+    mhchem: false
+  katex:
+    enable: false
+    copy_tex: false
