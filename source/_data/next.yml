@@ -5,6 +5,12 @@ highlight_theme: night
 sidebar:
   position: right
 
+favicon:
+  small:
+  medium:
+  apple_touch_icon:
+  safari_pinned_tab:
+
 avatar:
   url: /images/avatar.jpeg
   rounded: true
